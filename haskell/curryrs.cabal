@@ -4,7 +4,7 @@ synopsis:            Easy to use FFI Bridge for using Rust in Haskell
 description:         Please see README.md for more information on how to use this library.
 homepage:            https://github.com/mgattozzi/curryrs#readme
 license:             OtherLicense
-license-files:       LICENSE-MIT, LICENSE-APACHE
+-- license-files:       LICENSE-MIT, LICENSE-APACHE
 author:              Michael Gattozzi
 maintainer:          mgattozzi@gmail.com
 copyright:           2016 Michael Gattozzi
